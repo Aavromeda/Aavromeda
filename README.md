@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aavromeda
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning HTML and Python.
 - 📫 How to reach me:- email- dassattam2939@gmail.com
 
 <!---
