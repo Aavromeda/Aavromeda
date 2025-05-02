@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aavromeda
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML and Python.
+- 👋 Hi, I’m Sattam Das
+- 👀 I’m interested in artificial intelligence.
+- 🌱 I’m currently learning fundamentals of AI and ML.
 - 📫 How to reach me:- email- dassattam2939@gmail.com
 
 <!---
